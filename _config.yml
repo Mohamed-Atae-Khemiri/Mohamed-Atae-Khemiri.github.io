@@ -62,7 +62,7 @@ cdn:
 # Leave empty until you upload a picture to assets/images/
 avatar:
 
-social_preview_image:
+social_preview_image: /assets/img/linkedin-1-cover.png
 
 toc: true
 
