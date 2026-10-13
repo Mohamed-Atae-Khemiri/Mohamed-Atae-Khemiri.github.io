@@ -3,6 +3,9 @@ title: "Networking Course: Overview and Study Plan"
 date: 2026-10-10 08:00:00 +0100
 categories: [Networking, Course]
 tags: [networking, course, roadmap]
+image:
+  path: /assets/img/linkedin-1-cover.png
+  alt: Networking course cover
 ---
 A free, step-by-step networking course for beginners who want to move into cybersecurity. It has 10 modules. Every module has theory, **figures**, **worked examples with sample output**, a hands-on lab and review questions with answers.
 
