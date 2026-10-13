@@ -60,7 +60,7 @@ theme_mode:
 cdn:
 
 # Leave empty until you upload a picture to assets/images/
-avatar:
+avatar: /assets/img//assets/img/linkedin-1-cover.png
 
 social_preview_image:
 
