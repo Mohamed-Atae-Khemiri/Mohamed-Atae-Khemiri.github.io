@@ -44,9 +44,7 @@ A free, step-by-step networking course for beginners who want to move into cyber
 | 5 | Routing | static and OSPF lab |
 | 6 | TCP / UDP | capture a handshake |
 | 7 | Application protocols | DNS and DHCP captures |
-| 8 | NAT, firewalls, VPN | ACL lab, set up WireGuard |
-| 9 | Wireless | audit your own Wi-Fi settings |
-| 10 | Security and review | final project |
+
 
 ## Tools you will use
 
