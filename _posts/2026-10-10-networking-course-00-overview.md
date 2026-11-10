@@ -28,10 +28,7 @@ A free, step-by-step networking course for beginners who want to move into cyber
 5. Routing
 6. Transport layer: TCP and UDP
 7. Core application protocols (DNS, DHCP, HTTP)
-8. NAT, firewalls, VPN and proxies
-9. Wireless networking
-10. Network security fundamentals
-11. Final project and review questions
+
 
 ## 10-week study plan
 
